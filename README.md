@@ -5,6 +5,7 @@ This repository is a quantum computing portfolio built mainly with Qiskit and Pe
 The repository is organized progressively, starting from more basic concepts and moving towards more advanced topics. The goal is to cover a broad range of areas in quantum computing, including quantum key distribution, entanglement-based protocols, quantum algorithms, error correction, random circuit sampling, quantum optimization and quantum machine learning.
 
 Each notebook is designed to combine theoretical intuition with practical implementation, showing how the main ideas can be translated into executable quantum circuits.
+
 ---
 
 
