@@ -35,7 +35,7 @@ The recommended workflow is:
 
 ## Running on IBM Quantum
 
-- To run experiments on real hardware you need an IBM Quantum account and an API token. Install `qiskit-ibm-runtime` and configure your credentials:
+To run experiments on real hardware you need an IBM Quantum account and an API token. Install `qiskit-ibm-runtime` and configure your credentials:
 
 ```python
 from qiskit_ibm_runtime import QiskitRuntimeService
