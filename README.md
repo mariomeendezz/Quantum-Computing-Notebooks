@@ -48,6 +48,12 @@ QiskitRuntimeService.save_account(
 service = QiskitRuntimeService()
 ```
 
+## Sources
+
+- A Practical Guide to Quantum Computing. Elías F. Combarro, Samuel González-Castillo. Packt (2025).
+- A Practical Guide to Quantum Machine Learning and Quantum Optimization. Elías F. Combarro, Samuel González-Castillo. Packt (2023).
+- https://quantum.cloud.ibm.com/docs/en/guides
+- https://quantum.cloud.ibm.com/learning/en/courses
 
 ## License
 
