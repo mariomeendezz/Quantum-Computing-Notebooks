@@ -6,3 +6,4 @@ qiskit-aer
 qiskit-ibm-runtime
 pylatexenc
 sympy
+dwave-ocean-sdk
