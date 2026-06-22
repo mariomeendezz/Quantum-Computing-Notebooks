@@ -11,7 +11,25 @@ Each notebook is designed to combine theoretical intuition with practical implem
 
 ## Project Requirements
 
-To install all required dependencies, run:
+First, create a virtual environment:
+
+```bash
+python -m venv .venv
+```
+
+Then activate it:
+
+```bash
+# Windows
+.venv\Scripts\activate
+```
+
+```bash
+# macOS/Linux
+source .venv/bin/activate
+```
+
+Finally, install all required dependencies:
 
 ```bash
 pip install -r requirements.txt
