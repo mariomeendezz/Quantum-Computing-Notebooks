@@ -4,6 +4,7 @@ matplotlib
 qiskit
 qiskit-aer
 qiskit-ibm-runtime
+qiskit-nature
 pylatexenc
 sympy
 pandas
