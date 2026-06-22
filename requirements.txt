@@ -1,11 +1,13 @@
 ipykernel
 numpy
 matplotlib
-qiskit
-qiskit-aer
-qiskit-ibm-runtime
-qiskit-nature
 pylatexenc
 sympy
 pandas
+qiskit
+qiskit-aer
+qiskit-ibm-runtime
+qiskit-algorithms
+qiskit-nature
 dwave-ocean-sdk
+pyscf
