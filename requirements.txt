@@ -11,3 +11,4 @@ qiskit-algorithms
 qiskit-nature
 dwave-ocean-sdk
 pyscf
+pennylane
