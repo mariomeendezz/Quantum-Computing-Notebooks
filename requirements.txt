@@ -9,6 +9,8 @@ qiskit-aer
 qiskit-ibm-runtime
 qiskit-algorithms
 qiskit-nature
+qiskit-machine-learning
 dwave-ocean-sdk
 pyscf
 pennylane
+scikit-learn
