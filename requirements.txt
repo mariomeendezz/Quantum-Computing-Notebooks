@@ -4,10 +4,12 @@ matplotlib
 pylatexenc
 sympy
 pandas
+scikit-learn
 qiskit
 qiskit-aer
 qiskit-ibm-runtime
 qiskit-algorithms
+qiskit-machine-learning
 qiskit-nature
 dwave-ocean-sdk
 pyscf
