@@ -14,3 +14,4 @@ qiskit-nature
 dwave-ocean-sdk
 pyscf
 pennylane
+tensorflow
