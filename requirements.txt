@@ -4,13 +4,14 @@ matplotlib
 pylatexenc
 sympy
 pandas
+scikit-learn
 qiskit
 qiskit-aer
 qiskit-ibm-runtime
 qiskit-algorithms
+qiskit-machine-learning
 qiskit-nature
 qiskit-machine-learning
 dwave-ocean-sdk
 pyscf
 pennylane
-scikit-learn
