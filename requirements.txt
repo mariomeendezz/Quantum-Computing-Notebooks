@@ -15,3 +15,4 @@ qiskit-machine-learning
 dwave-ocean-sdk
 pyscf
 pennylane
+torch
