@@ -15,4 +15,4 @@ dwave-ocean-sdk
 pyscf
 pennylane
 tensorflow
-intertools
+torch
