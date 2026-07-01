@@ -68,10 +68,12 @@ service = QiskitRuntimeService()
 
 ## Sources
 
+- Qiskit documentation: https://quantum.cloud.ibm.com/docs 
+- PennyLane documentation: https://docs.pennylane.ai 
+- PyTorch documentation: https://pytorch.org/docs/stable/index.html 
 - A Practical Guide to Quantum Computing. Elías F. Combarro, Samuel González-Castillo. Packt (2025).
 - A Practical Guide to Quantum Machine Learning and Quantum Optimization. Elías F. Combarro, Samuel González-Castillo. Packt (2023).
-- https://quantum.cloud.ibm.com/docs/en/guides
-- https://quantum.cloud.ibm.com/learning/en/courses
+
 
 ## License
 
