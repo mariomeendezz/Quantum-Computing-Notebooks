@@ -6,7 +6,6 @@ The repository is organized progressively, starting from more basic concepts and
 
 Each notebook is designed to combine theoretical intuition with practical implementation, showing how the main ideas can be translated into executable quantum circuits. The goal is not to provide an extensive or fully rigorous theoretical explanation, but rather to present clear and practical implementations of the main concepts.
 
----
 
 
 ## Project Requirements
@@ -35,7 +34,6 @@ Finally, install all required dependencies:
 pip install -r requirements.txt
 ```
 
----
 
 ## Usage
 
